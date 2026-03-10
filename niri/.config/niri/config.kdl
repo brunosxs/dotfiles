@@ -34,10 +34,10 @@ input {
     focus-follows-mouse max-scroll-amount="0%"
 }
 
-output "eDP-1" {
+output "DSI-1" {
     mode "1920x1080@120.030"
-    scale 1
-    transform "normal"
+    scale 1.75
+    transform "270"
     position x=1280 y=0
 }
 
